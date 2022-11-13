@@ -1,4 +1,4 @@
-./.env
-./myLog/hhResponses.txt
-./myLog/telegramResponses.txt
-./myLog/webhookMessages.txt
+.env
+myLog/hhResponses.txt
+myLog/telegramResponses.txt
+myLog/webhookMessages.txt
